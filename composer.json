@@ -1,0 +1,5 @@
+{
+    "require": {
+        "pj8912/php-bard-api": "^1.0"
+    }
+}
